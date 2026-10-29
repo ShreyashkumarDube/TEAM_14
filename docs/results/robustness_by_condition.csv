@@ -1,0 +1,37 @@
+condition,detector,images_all_found,images
+Original,BlazeFace multi-scale,6,7
+Original,Haar cascade,7,7
+Original,BlazeFace single pass,2,7
+Rotated 15 deg,BlazeFace multi-scale,6,7
+Rotated 15 deg,Haar cascade,4,7
+Rotated 15 deg,BlazeFace single pass,2,7
+Rotated 30 deg,BlazeFace multi-scale,6,7
+Rotated 30 deg,Haar cascade,1,7
+Rotated 30 deg,BlazeFace single pass,2,7
+Rotated 45 deg,BlazeFace multi-scale,5,7
+Rotated 45 deg,Haar cascade,2,7
+Rotated 45 deg,BlazeFace single pass,2,7
+Low light (gamma 3),BlazeFace multi-scale,5,7
+Low light (gamma 3),Haar cascade,7,7
+Low light (gamma 3),BlazeFace single pass,2,7
+Very dark (gamma 5),BlazeFace multi-scale,5,7
+Very dark (gamma 5),Haar cascade,7,7
+Very dark (gamma 5),BlazeFace single pass,2,7
+Over-exposed (gamma 0.3),BlazeFace multi-scale,6,7
+Over-exposed (gamma 0.3),Haar cascade,7,7
+Over-exposed (gamma 0.3),BlazeFace single pass,2,7
+Gaussian noise (sigma 25),BlazeFace multi-scale,4,7
+Gaussian noise (sigma 25),Haar cascade,7,7
+Gaussian noise (sigma 25),BlazeFace single pass,3,7
+Gaussian noise (sigma 50),BlazeFace multi-scale,2,7
+Gaussian noise (sigma 50),Haar cascade,6,7
+Gaussian noise (sigma 50),BlazeFace single pass,1,7
+Motion/defocus blur (15 px),BlazeFace multi-scale,4,7
+Motion/defocus blur (15 px),Haar cascade,6,7
+Motion/defocus blur (15 px),BlazeFace single pass,2,7
+Down-scaled to 40%,BlazeFace multi-scale,7,7
+Down-scaled to 40%,Haar cascade,4,7
+Down-scaled to 40%,BlazeFace single pass,2,7
+Mirrored,BlazeFace multi-scale,6,7
+Mirrored,Haar cascade,7,7
+Mirrored,BlazeFace single pass,2,7

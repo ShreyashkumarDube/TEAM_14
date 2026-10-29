@@ -1,0 +1,85 @@
+Image,Condition,Expected,MediaPipe faces,MediaPipe OK,MediaPipe ms,MediaPipe conf,Single-pass faces,Single-pass OK,Single-pass ms,Haar faces,Haar OK,Haar ms
+addams-family.png,Original,7,3,False,158.7,0.83,0,False,6.7,7,True,375.3
+addams-family.png,Rotated 15 deg,7,5,False,157.6,0.84,0,False,5.7,4,False,349.3
+addams-family.png,Rotated 30 deg,7,4,False,153.4,0.83,0,False,4.9,0,False,266.0
+addams-family.png,Rotated 45 deg,7,4,False,168.2,0.86,0,False,7.0,0,False,246.7
+addams-family.png,Low light (gamma 3),7,4,False,136.2,0.84,0,False,5.8,10,True,399.1
+addams-family.png,Very dark (gamma 5),7,0,False,154.5,0.0,0,False,6.1,7,True,249.1
+addams-family.png,Over-exposed (gamma 0.3),7,5,False,177.6,0.8,0,False,6.5,7,True,436.0
+addams-family.png,Gaussian noise (sigma 25),7,1,False,137.2,0.81,0,False,5.2,7,True,445.3
+addams-family.png,Gaussian noise (sigma 50),7,0,False,154.6,0.0,0,False,6.9,7,True,358.9
+addams-family.png,Motion/defocus blur (15 px),7,6,False,162.0,0.83,0,False,5.2,6,False,342.6
+addams-family.png,Down-scaled to 40%,7,7,True,134.8,0.91,0,False,4.0,3,False,94.3
+addams-family.png,Mirrored,7,5,False,172.0,0.82,0,False,6.8,7,True,360.1
+astronaut.png,Original,1,1,True,147.2,0.97,1,True,5.5,1,True,130.1
+astronaut.png,Rotated 15 deg,1,2,True,165.8,0.96,1,True,6.1,1,True,111.7
+astronaut.png,Rotated 30 deg,1,1,True,146.6,0.95,1,True,5.1,0,False,119.1
+astronaut.png,Rotated 45 deg,1,1,True,142.8,0.95,1,True,4.8,1,True,102.6
+astronaut.png,Low light (gamma 3),1,1,True,118.8,0.97,1,True,4.3,1,True,121.0
+astronaut.png,Very dark (gamma 5),1,1,True,150.6,0.95,1,True,6.0,1,True,118.5
+astronaut.png,Over-exposed (gamma 0.3),1,1,True,123.3,0.96,1,True,3.7,1,True,106.9
+astronaut.png,Gaussian noise (sigma 25),1,3,True,140.7,0.89,1,True,5.0,1,True,161.6
+astronaut.png,Gaussian noise (sigma 50),1,1,True,134.8,0.62,0,False,4.1,1,True,147.6
+astronaut.png,Motion/defocus blur (15 px),1,1,True,119.8,0.95,1,True,4.1,1,True,90.3
+astronaut.png,Down-scaled to 40%,1,2,True,128.3,0.97,1,True,4.8,1,True,27.2
+astronaut.png,Mirrored,1,2,True,138.9,0.96,1,True,5.7,1,True,118.1
+audrybt1.png,Original,1,1,True,120.8,0.9,0,False,3.6,1,True,55.4
+audrybt1.png,Rotated 15 deg,1,1,True,135.0,0.88,0,False,4.3,1,True,51.0
+audrybt1.png,Rotated 30 deg,1,1,True,130.3,0.87,0,False,5.0,0,False,55.5
+audrybt1.png,Rotated 45 deg,1,1,True,121.7,0.79,0,False,5.0,0,False,53.3
+audrybt1.png,Low light (gamma 3),1,1,True,132.7,0.93,0,False,3.8,1,True,52.5
+audrybt1.png,Very dark (gamma 5),1,1,True,136.0,0.92,0,False,3.7,1,True,50.5
+audrybt1.png,Over-exposed (gamma 0.3),1,1,True,140.8,0.85,0,False,3.7,1,True,53.4
+audrybt1.png,Gaussian noise (sigma 25),1,2,True,121.0,0.78,1,True,5.7,1,True,74.4
+audrybt1.png,Gaussian noise (sigma 50),1,1,True,141.9,0.51,1,True,4.2,1,True,86.2
+audrybt1.png,Motion/defocus blur (15 px),1,1,True,129.3,0.77,0,False,4.2,1,True,42.2
+audrybt1.png,Down-scaled to 40%,1,1,True,138.8,0.88,0,False,6.1,1,True,5.4
+audrybt1.png,Mirrored,1,1,True,131.5,0.91,0,False,4.4,1,True,53.3
+bttf301.png,Original,6,6,True,152.1,0.95,0,False,6.0,6,True,164.8
+bttf301.png,Rotated 15 deg,6,6,True,132.8,0.95,0,False,4.8,5,False,172.3
+bttf301.png,Rotated 30 deg,6,6,True,163.5,0.95,0,False,4.7,0,False,157.5
+bttf301.png,Rotated 45 deg,6,5,False,136.9,0.92,0,False,3.7,0,False,122.9
+bttf301.png,Low light (gamma 3),6,6,True,142.5,0.95,0,False,3.9,6,True,173.9
+bttf301.png,Very dark (gamma 5),6,6,True,139.0,0.94,0,False,5.6,6,True,142.7
+bttf301.png,Over-exposed (gamma 0.3),6,6,True,133.7,0.94,0,False,3.7,6,True,149.4
+bttf301.png,Gaussian noise (sigma 25),6,2,False,117.4,0.85,0,False,4.1,6,True,188.3
+bttf301.png,Gaussian noise (sigma 50),6,0,False,142.8,0.0,0,False,4.0,5,False,190.8
+bttf301.png,Motion/defocus blur (15 px),6,5,False,143.1,0.85,0,False,5.4,6,True,139.3
+bttf301.png,Down-scaled to 40%,6,6,True,135.1,0.94,0,False,4.6,2,False,21.3
+bttf301.png,Mirrored,6,6,True,130.8,0.95,0,False,7.0,6,True,185.8
+karen-and-rob.png,Original,2,2,True,140.4,0.94,0,False,4.5,2,True,110.6
+karen-and-rob.png,Rotated 15 deg,2,2,True,129.9,0.94,0,False,3.7,2,True,102.8
+karen-and-rob.png,Rotated 30 deg,2,2,True,131.5,0.92,0,False,3.2,0,False,105.6
+karen-and-rob.png,Rotated 45 deg,2,2,True,116.2,0.92,0,False,3.9,0,False,85.4
+karen-and-rob.png,Low light (gamma 3),2,2,True,134.4,0.94,0,False,4.6,3,True,91.6
+karen-and-rob.png,Very dark (gamma 5),2,2,True,118.1,0.93,0,False,3.8,3,True,94.8
+karen-and-rob.png,Over-exposed (gamma 0.3),2,2,True,146.0,0.94,0,False,4.2,2,True,100.7
+karen-and-rob.png,Gaussian noise (sigma 25),2,2,True,112.7,0.86,0,False,4.2,2,True,111.4
+karen-and-rob.png,Gaussian noise (sigma 50),2,0,False,142.0,0.0,0,False,3.4,2,True,126.2
+karen-and-rob.png,Motion/defocus blur (15 px),2,2,True,145.9,0.85,0,False,3.8,2,True,76.2
+karen-and-rob.png,Down-scaled to 40%,2,3,True,129.0,0.94,0,False,4.2,1,False,12.6
+karen-and-rob.png,Mirrored,2,2,True,123.3,0.94,0,False,4.4,2,True,95.5
+mona-lisa.png,Original,1,1,True,131.7,0.94,1,True,4.8,1,True,161.3
+mona-lisa.png,Rotated 15 deg,1,1,True,118.3,0.96,1,True,4.9,2,True,135.9
+mona-lisa.png,Rotated 30 deg,1,1,True,117.4,0.92,1,True,3.8,0,False,132.5
+mona-lisa.png,Rotated 45 deg,1,1,True,122.1,0.91,1,True,4.0,1,True,136.8
+mona-lisa.png,Low light (gamma 3),1,2,True,105.6,0.95,1,True,3.7,1,True,159.0
+mona-lisa.png,Very dark (gamma 5),1,3,True,148.4,0.89,1,True,5.5,1,True,123.1
+mona-lisa.png,Over-exposed (gamma 0.3),1,2,True,141.6,0.95,1,True,6.0,1,True,164.7
+mona-lisa.png,Gaussian noise (sigma 25),1,1,True,129.7,0.85,1,True,4.2,1,True,200.7
+mona-lisa.png,Gaussian noise (sigma 50),1,0,False,128.9,0.0,0,False,4.9,1,True,210.9
+mona-lisa.png,Motion/defocus blur (15 px),1,2,True,124.8,0.94,1,True,4.8,1,True,112.2
+mona-lisa.png,Down-scaled to 40%,1,2,True,148.8,0.95,1,True,4.5,1,True,33.9
+mona-lisa.png,Mirrored,1,1,True,138.9,0.94,1,True,5.4,1,True,183.5
+waynesworld2.png,Original,2,2,True,127.2,0.76,0,False,4.3,2,True,210.0
+waynesworld2.png,Rotated 15 deg,2,2,True,129.6,0.86,0,False,4.5,1,False,187.3
+waynesworld2.png,Rotated 30 deg,2,2,True,126.0,0.86,0,False,5.3,2,True,157.4
+waynesworld2.png,Rotated 45 deg,2,2,True,130.9,0.75,0,False,3.9,1,False,167.7
+waynesworld2.png,Low light (gamma 3),2,1,False,138.4,0.83,0,False,6.0,2,True,222.0
+waynesworld2.png,Very dark (gamma 5),2,1,False,140.8,0.69,0,False,4.7,3,True,194.5
+waynesworld2.png,Over-exposed (gamma 0.3),2,2,True,137.6,0.84,0,False,4.8,2,True,209.1
+waynesworld2.png,Gaussian noise (sigma 25),2,1,False,157.9,0.76,0,False,4.6,2,True,223.4
+waynesworld2.png,Gaussian noise (sigma 50),2,0,False,160.9,0.0,0,False,5.1,2,True,211.1
+waynesworld2.png,Motion/defocus blur (15 px),2,1,False,139.7,0.6,0,False,5.8,2,True,170.1
+waynesworld2.png,Down-scaled to 40%,2,2,True,139.3,0.91,0,False,3.8,2,True,34.5
+waynesworld2.png,Mirrored,2,2,True,138.7,0.8,0,False,4.2,2,True,207.7

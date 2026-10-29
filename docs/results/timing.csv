@@ -1,0 +1,28 @@
+Operation,Mean ms,Std ms
+BlazeFace detection (single pass),6.3,1.1
+BlazeFace detection (multi-scale),132.4,7.61
+Haar detection,118.43,8.31
+Selfie segmentation,13.52,1.53
+Brightness+contrast+saturation,8.31,2.39
+Auto-enhance (CLAHE),8.44,0.53
+Unsharp mask,3.45,0.25
+Portrait blur (compositing only),19.71,1.58
+Background replace (compositing only),14.12,0.3
+Skin smoothing,92.22,5.87
+AR sunglasses,25.66,5.33
+Privacy pixelate,1.61,0.17
+Head pose + EAR,0.27,0.05
+Vignette,15.78,0.68
+Style: Grayscale,0.28,0.09
+Style: Sepia,0.34,0.06
+Style: Noir (high-contrast B&W),5.95,1.72
+Style: Cartoon,97.11,11.57
+Style: Pencil Sketch,1.94,0.27
+Style: Colour Pencil,70.13,5.81
+Style: Watercolour,295.7,26.94
+Style: Oil Paint,140.64,15.89
+Style: Emboss,1.13,0.08
+Style: Edge Detect (Canny),1.7,0.32
+Style: Thermal (colour map),0.94,0.07
+Style: Cool Tone,1.0,0.08
+Style: Warm Tone,0.92,0.04

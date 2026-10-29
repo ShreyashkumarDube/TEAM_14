@@ -1,0 +1,2 @@
+Conditions tested,MediaPipe detection rate,Single-pass detection rate,Haar detection rate,MediaPipe extra boxes,Single-pass extra boxes,Haar extra boxes,MediaPipe mean ms,Single-pass mean ms,Haar mean ms
+84,74%,29%,77%,13,0,7,137.7,4.8,152.2
