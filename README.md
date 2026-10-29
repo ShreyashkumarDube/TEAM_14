@@ -1,6 +1,6 @@
 # Face Studio Camera
 
-**IPCV Assignment · Section D · Team `TEAM_<number>`**
+**IPCV Assignment · Section D · Team `TEAM_14`**
 
 Face Studio Camera is a photo editor and live webcam studio we built for our Image Processing and Computer Vision course. You can upload a photo (or use your webcam), and the app can blur the background like a phone's portrait mode, smooth skin, put sunglasses or a party hat on faces, pixelate faces for privacy, turn the photo into a cartoon or a sketch, and a lot more.
 
@@ -61,8 +61,8 @@ You need **Python 3.10 to 3.12** (3.13 also worked for us) and an internet conne
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/TEAM_<number>.git
-cd TEAM_<number>
+git clone https://github.com/<your-username>/TEAM_14.git
+cd TEAM_14
 ```
 
 Or download the ZIP from GitHub (green **Code** button → **Download ZIP**) and unzip it.
